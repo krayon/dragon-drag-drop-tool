@@ -35,5 +35,5 @@ executable and man page to match the given name.
 
 dragon requires GTK+ 3 and is distributed under the GNU GPL version 3.
 
-![demo](https://i.imgur.com/UkmrXAC.png)
+![demo](preview.png)
 - *now take that file that showed up and just drag it anywhere you want!*
